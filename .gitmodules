@@ -4,3 +4,6 @@
 [submodule "app2"]
 	path = app2
 	url = https://github.com/DAHU123/app2.git
+[submodule "layout"]
+	path = layout
+	url = https://github.com/DAHU123/layout.git
