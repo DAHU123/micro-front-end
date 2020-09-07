@@ -1,3 +1,6 @@
 [submodule "app1"]
 	path = app1
 	url = https://github.com/DAHU123/app1.git
+[submodule "app2"]
+	path = app2
+	url = https://github.com/DAHU123/app2.git
